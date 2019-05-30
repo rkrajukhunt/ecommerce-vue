@@ -1,4 +1,4 @@
-# Tarweej Admin
+# eCommerce 
 
 ## Installation
 
@@ -6,10 +6,10 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/rkrajukhunt/tarweej-admin-panel
+$ git clone https://github.com/rkrajukhunt/ecommerce-vue
 
 # go into app's directory
-$ cd tarweej-admin-panel
+$ cd ecommerce-vue
 
 # install app's dependencies
 $ npm install
@@ -73,7 +73,7 @@ CoreUI-Vue/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/rkrajukhunt/tarweej-admin-panel/issues).
+Have a bug or a feature request? [Please open a new issue](https://github.com/rkrajukhunt/ecommerce-vue/issues).
 
 ## Documentation
 
